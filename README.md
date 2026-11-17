@@ -1,0 +1,1 @@
+# Analysis-of-a-RES-Aggregator-Portfolio-with-3-RES-Plants-in-the-Day-Ahead-Market
