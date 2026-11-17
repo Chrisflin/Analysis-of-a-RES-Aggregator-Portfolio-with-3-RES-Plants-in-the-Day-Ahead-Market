@@ -49,7 +49,7 @@ Mini-project ανάλυσης δεδομένων αγοράς ηλεκτρική
 ├── queries.sql           # 8 SQL queries
 ├── greece_res_merged.csv   # ωριαία δεδομένα (είσοδος της ανάλυσης) , προκύπτει από ento_e.py
 ├── project_formulas.pdf    # όλοι οι τύποι και η ερμηνεία τους
-├── report/                      # αναφορά
+├── Christo_Balla_project_RES_Aggregator         # αναφορά
 └── outputs/                     # πίνακες, γραφήματα, βάση dam.db, αποτελέσματα SQL
 ```
 
