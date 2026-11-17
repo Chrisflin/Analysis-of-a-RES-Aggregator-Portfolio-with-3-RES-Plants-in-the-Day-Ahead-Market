@@ -46,10 +46,10 @@ Mini-project ανάλυσης δεδομένων αγοράς ηλεκτρική
 ├── entso_e.py            # 1. Συλλογή δεδομένων από ENTSO-E
 ├── analysis.py           # 2-6. Καθαρισμός, πάρκα, εκκαθάριση, δείκτες, γραφήματα
 ├── run_sql.py            # 7. Φόρτωση σε SQLite και εκτέλεση των queries
-├── sql/queries.sql       # 8 SQL queries
-├── data/greece_res_merged.csv   # ωριαία δεδομένα (είσοδος της ανάλυσης)
-├── docs/project_formulas.pdf    # όλοι οι τύποι και η ερμηνεία τους
-├── report/                      # αναφορά για τον διευθυντή
+├── queries.sql           # 8 SQL queries
+├── greece_res_merged.csv   # ωριαία δεδομένα (είσοδος της ανάλυσης) , προκύπτει από ento_e.py
+├── project_formulas.pdf    # όλοι οι τύποι και η ερμηνεία τους
+├── report/                      # αναφορά
 └── outputs/                     # πίνακες, γραφήματα, βάση dam.db, αποτελέσματα SQL
 ```
 
