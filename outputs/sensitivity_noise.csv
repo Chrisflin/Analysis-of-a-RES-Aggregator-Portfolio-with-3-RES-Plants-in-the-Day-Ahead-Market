@@ -1,0 +1,4 @@
+noise_sigma,pooling_saving_mean_pct,pooling_saving_p5_pct,pooling_saving_p95_pct,nmae_reduction_mean_pct
+0.0,13.23,13.23,13.23,13.77
+0.05,13.07,12.22,13.86,14.09
+0.1,12.8,11.46,14.22,14.93

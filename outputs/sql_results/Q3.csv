@@ -1,0 +1,4 @@
+park,forecast_mwh,actual_mwh,dam_revenue_eur,imbalance_cost_eur,net_revenue_eur,realised_price_eur_mwh
+PV-1,1783.0,1779.0,36687.0,1417.0,48854.0,27.46
+PV-2,984.0,982.0,20251.0,806.0,27192.0,27.7
+WIND-1,3616.0,3361.0,304235.0,5499.0,316572.0,94.2

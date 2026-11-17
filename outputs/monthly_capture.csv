@@ -1,0 +1,5 @@
+month,tech,baseload_EUR_MWh,weighted_price_EUR_MWh,capture_rate
+4,pv,88.764,30.378,0.342
+4,wind,88.764,102.028,1.149
+5,pv,88.949,26.953,0.303
+5,wind,88.949,90.554,1.018
